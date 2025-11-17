@@ -1,1 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
 
+h1{
+   color: black ;
+   padding-left: 40%;
+}
+
+.search-bar {
+    background-color: red;
+    border-style: solid;
+}
